@@ -1,4 +1,4 @@
-# data-mining
+# data mining & machine learning & deep learning
 课程作业。
 
 ## 已上传：
