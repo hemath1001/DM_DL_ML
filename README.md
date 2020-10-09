@@ -17,6 +17,9 @@
 * [自编码器生成](https://github.com/hemath1001/DM_DL_ML/tree/master/%E8%87%AA%E7%BC%96%E7%A0%81%E5%99%A8%E7%94%9F%E6%88%90)     
         分别使用 基础Auto-encoder、CAE（Convolutional Auto-encoder）卷积自编码器、VCAE（Conditional Variational Auto-Encoder）条件变分自编码器生成手写数字，并对隐空间中的向量进行可视化。
         
+* [NLP-gensim使用教程](https://github.com/hemath1001/DM_DL_ML/tree/master/NLP-gensim%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)   
+        Python做NLP时常用的gensim包的使用教程，为我自己编写。
+
 * [约会数据分析](https://github.com/hemath1001/DM_DL_ML/tree/master/speed%20dating%20%E7%BA%A6%E4%BC%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90)     
         较完整的数据分析项目。包括了详细的统计描述分析，多种模型的数据建模、比较效果、并分析。
 
