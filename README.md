@@ -1,5 +1,5 @@
 # data mining & deep learning & machine learning 
-个人的一些项目成果、课程作业。
+个人完成的一些项目成果、课程作业。
 
 ## 项目成果：
 * [GAN的解析](https://github.com/hemath1001/DM_DL_ML/tree/master/GAN%E7%9A%84%E8%A7%A3%E6%9E%90)
