@@ -45,20 +45,4 @@
 
 
 
-## 个人（搞艺术的）微信公众号：何数学她  
-* [野外合作社](https://mp.weixin.qq.com/s/lBSVwrU7aWT8mEMwFvrHfA)    
-        2014-2020所拍照片节选形成的一套描述动物与人的作品。
-
-* [杨浦区国定路777号](https://mp.weixin.qq.com/s/M5IiyOfB6ze51UiFHGkoUg)   
-        在上财四年拍摄的照片合集，最初开设公众号的缘由即为想发表这篇毕业推送，结果获得了朋友圈刷屏式的2.6万阅读。
-
-* [2012](https://mp.weixin.qq.com/s/jmzhYmzHiY_tV0c1KwO1Ng)   
-        我的2012 / 艺术与人工智能的关系探讨。
-
-* [一月怎么不能去大西北](https://mp.weixin.qq.com/s/54czy5P_jEUHmAKbm9PO8Q)  
-        冬季去青甘游记。
-
-* [何数学她这两年](https://mp.weixin.qq.com/s/G9hzmNAT5SVRrQPVQjr_Uw)  
-        2018-2019年度照片回顾。
-
 
